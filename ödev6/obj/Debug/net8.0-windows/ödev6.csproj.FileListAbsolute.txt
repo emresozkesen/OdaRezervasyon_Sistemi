@@ -1,0 +1,32 @@
+C:\C#\ödev6\obj\Debug\net8.0-windows\ödev6.Form1.resources
+C:\C#\ödev6\obj\Debug\net8.0-windows\ödev6.csproj.GenerateResource.cache
+C:\C#\ödev6\obj\Debug\net8.0-windows\ödev6.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ödev6\obj\Debug\net8.0-windows\ödev6.AssemblyInfoInputs.cache
+C:\C#\ödev6\obj\Debug\net8.0-windows\ödev6.AssemblyInfo.cs
+C:\C#\ödev6\obj\Debug\net8.0-windows\ödev6.csproj.CoreCompileInputs.cache
+C:\C#\ödev6\bin\Debug\net8.0-windows\ödev6.exe
+C:\C#\ödev6\bin\Debug\net8.0-windows\ödev6.deps.json
+C:\C#\ödev6\bin\Debug\net8.0-windows\ödev6.runtimeconfig.json
+C:\C#\ödev6\bin\Debug\net8.0-windows\ödev6.dll
+C:\C#\ödev6\bin\Debug\net8.0-windows\ödev6.pdb
+C:\C#\ödev6\obj\Debug\net8.0-windows\ödev6.dll
+C:\C#\ödev6\obj\Debug\net8.0-windows\refint\ödev6.dll
+C:\C#\ödev6\obj\Debug\net8.0-windows\ödev6.pdb
+C:\C#\ödev6\obj\Debug\net8.0-windows\ödev6.genruntimeconfig.cache
+C:\C#\ödev6\obj\Debug\net8.0-windows\ref\ödev6.dll
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\bin\Debug\net8.0-windows\ödev6.exe
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\bin\Debug\net8.0-windows\ödev6.deps.json
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\bin\Debug\net8.0-windows\ödev6.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\bin\Debug\net8.0-windows\ödev6.dll
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\bin\Debug\net8.0-windows\ödev6.pdb
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\obj\Debug\net8.0-windows\ödev6.Form1.resources
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\obj\Debug\net8.0-windows\ödev6.csproj.GenerateResource.cache
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\obj\Debug\net8.0-windows\ödev6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\obj\Debug\net8.0-windows\ödev6.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\obj\Debug\net8.0-windows\ödev6.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\obj\Debug\net8.0-windows\ödev6.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\obj\Debug\net8.0-windows\ödev6.dll
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\obj\Debug\net8.0-windows\refint\ödev6.dll
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\obj\Debug\net8.0-windows\ödev6.pdb
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\obj\Debug\net8.0-windows\ödev6.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\24103021074-YUNUSEMRESÖZKESEN\ödev6\obj\Debug\net8.0-windows\ref\ödev6.dll
